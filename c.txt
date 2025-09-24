@@ -1,5 +1,8 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 c
 =======
 c is modified
 >>>>>>> first
+=======
+>>>>>>> parent of 421c4d0 (a,b,c are modified c4)
