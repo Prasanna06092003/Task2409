@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 e
+=======
+e is modified
+>>>>>>> first

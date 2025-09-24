@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 d
+=======
+d is modified
+>>>>>>> first

@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 i
+=======
+i is modified
+
+>>>>>>> first
